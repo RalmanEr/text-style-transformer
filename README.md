@@ -46,4 +46,6 @@ ai-style-transformer/
 
 ├── requirements.txt    # Список библиотек
 
+├── app.py              # Основное приложение
+
 └── .gitignore         # Исключаемые файлы
